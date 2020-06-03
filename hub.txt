@@ -1,0 +1,6 @@
+hub HCT116 DMR bisulfite PCR
+shortLabel HCT116 bisulfite PCR
+longLabel bisulfite PCR followed by Sanger sequencing for select cancer DMRs
+genomesFile genomes.txt
+email conrad@lfc.edu
+descriptionUrl ucscHub.html 

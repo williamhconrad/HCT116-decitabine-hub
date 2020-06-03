@@ -1,0 +1,11 @@
+track HCT116dmso
+bigDataUrl https://mxlakeforest-my.sharepoint.com/:u:/g/personal/conrad_mx_lakeforest_edu/ESr2xMkhP_lJiqzcJsyg3RgB-t_cMpVd2Ia-eNFcl0zTEw?e=w6oN8A
+shortLabel HCT116_DMSO
+longLabel HCT116 cells treated for 48 hr with 0.1% DMSO
+type bigBed 
+
+track HCT116decitabine
+bigDataUrl https://mxlakeforest-my.sharepoint.com/:u:/g/personal/conrad_mx_lakeforest_edu/EVGivc5JOZlNu4XTkbMGOZYBw3iETAKopBweRgC2RFcT7A?e=Vzt4tf
+shortLabel HCT116_DMSO
+longLabel HCT116 cells treated for 48 hr with 1 microM decitabine
+type bigBed 
