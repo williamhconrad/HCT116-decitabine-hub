@@ -3,11 +3,11 @@ bigDataUrl https://raw.githubusercontent.com/williamhconrad/HCT116-decitabine-hu
 shortLabel HCT116_DMSO
 longLabel HCT116 cells treated for 48 hr with 0.1% DMSO
 itemRgb on
-type bigBed 
+type bigBed 9
 
 track HCT116decitabine
 bigDataUrl https://raw.githubusercontent.com/williamhconrad/HCT116-decitabine-hub/master/hg19/BMB322L-pctMethyl-Decitabine-20200602.bb
 shortLabel HCT116_DMSO
 longLabel HCT116 cells treated for 48 hr with 1 microM decitabine
 itemRgb on
-type bigBed 
+type bigBed 9
